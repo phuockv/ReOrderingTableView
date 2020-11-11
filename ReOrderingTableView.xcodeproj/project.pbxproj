@@ -15,6 +15,7 @@
 		C73DBF90255B8ECC00CF1F60 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C73DBF8E255B8ECC00CF1F60 /* LaunchScreen.storyboard */; };
 		C73DBF9B255B8ECC00CF1F60 /* ReOrderingTableViewTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C73DBF9A255B8ECC00CF1F60 /* ReOrderingTableViewTests.swift */; };
 		C73DBFA6255B8ECC00CF1F60 /* ReOrderingTableViewUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C73DBFA5255B8ECC00CF1F60 /* ReOrderingTableViewUITests.swift */; };
+		C73DBFBF255B934A00CF1F60 /* ItermTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = C73DBFBE255B934A00CF1F60 /* ItermTableViewCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		C73DBFA1255B8ECC00CF1F60 /* ReOrderingTableViewUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ReOrderingTableViewUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		C73DBFA5255B8ECC00CF1F60 /* ReOrderingTableViewUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReOrderingTableViewUITests.swift; sourceTree = "<group>"; };
 		C73DBFA7255B8ECC00CF1F60 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		C73DBFBE255B934A00CF1F60 /* ItermTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ItermTableViewCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +108,7 @@
 				C73DBF8C255B8ECC00CF1F60 /* Assets.xcassets */,
 				C73DBF8E255B8ECC00CF1F60 /* LaunchScreen.storyboard */,
 				C73DBF91255B8ECC00CF1F60 /* Info.plist */,
+				C73DBFBE255B934A00CF1F60 /* ItermTableViewCell.swift */,
 			);
 			path = ReOrderingTableView;
 			sourceTree = "<group>";
@@ -261,6 +264,7 @@
 				C73DBF88255B8EC900CF1F60 /* ViewController.swift in Sources */,
 				C73DBF84255B8EC900CF1F60 /* AppDelegate.swift in Sources */,
 				C73DBF86255B8EC900CF1F60 /* SceneDelegate.swift in Sources */,
+				C73DBFBF255B934A00CF1F60 /* ItermTableViewCell.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
